@@ -1,0 +1,7 @@
+Next Steps
+Once this basic setup is working, we can proceed with:
+
+Creating the user routes
+Setting up the views
+Implementing CRUD operations
+Styling the application
